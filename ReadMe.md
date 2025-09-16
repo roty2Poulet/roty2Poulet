@@ -1,5 +1,6 @@
 # 💫 About Me:
-💼 Student in theoretical physics in the university of Geneva 🇨🇭<br>❌ No gf so more time to code 💻
+💼 Student in physics in the university of Geneva 🇨🇭
+📖 Passionate about learning !
 
 
 # 💻 Tech Stack:
